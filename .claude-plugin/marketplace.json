@@ -1,0 +1,17 @@
+{
+    "name": "rcmx-tools",
+    "owner": {
+        "name": "rcmx"
+    },
+    "plugins": [
+        {
+            "name": "dotnet-developer",
+            "source": "./plugins/dotnet-developer",
+            "description": "Commands and skills for .net development",
+            "version": "1.0.0",
+            "author": {
+                "name": "rcmx"
+            }
+        }
+    ]
+}
