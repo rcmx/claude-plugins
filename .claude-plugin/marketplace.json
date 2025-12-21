@@ -12,6 +12,15 @@
             "author": {
                 "name": "rcmx"
             }
+        },
+        {
+            "name": "cloud-infrastructure",
+            "source": "./plugins/cloud-infrastructure",
+            "description": "Skills and agents for cloud infrastructure management with Terraform on AWS",
+            "version": "0.1.0",
+            "author": {
+                "name": "rcmx"
+            }
         }
     ]
 }

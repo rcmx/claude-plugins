@@ -1,0 +1,8 @@
+{
+  "name": "cloud-infrastructure",
+  "version": "0.2.0",
+  "description": "Terraform patterns for serverless and static site infrastructure: Route53, S3, CloudFront, ACM, Lambda",
+  "author": {
+    "name": "rcmx"
+  }
+}
